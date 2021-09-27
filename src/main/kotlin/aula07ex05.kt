@@ -1,5 +1,5 @@
 // Exemplo de classe em Kotlin e de construtores
-class Carro1(){
+class Carro0(){
 
     // Atributos da Classe
     var modelo: String = ""
@@ -9,11 +9,11 @@ class Carro1(){
 
 fun main(){
 
-    val c0: Carro1
-    val c1: Carro1 = Carro1()
-    val c2 =  Carro1()
+    val c0: Carro0
+    val c1: Carro0 = Carro0()
+    val c2 =  Carro0()
 
-    c0 =  Carro1()
+    c0 =  Carro0()
 
     c2.ano = 2020
 
