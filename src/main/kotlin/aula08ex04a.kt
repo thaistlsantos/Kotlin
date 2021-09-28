@@ -8,9 +8,9 @@ class Carro1(){
 
 fun main(){
 
-    var c0: Carro1
-    var c1: Carro1 = Carro1()
-    var c2 =  Carro1()
+    val c0: Carro1
+    val c1: Carro1 = Carro1()
+    val c2 =  Carro1()
 
     c0 =  Carro1()
 
